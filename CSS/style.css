@@ -1,0 +1,21 @@
+body{
+    background-color: f3f3f3;
+}
+.pad{
+    padding: 100;
+}
+.style{
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    line-height: 70px;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color:cadetblue;
+}
+a:hover{
+    color: blueviolet;
+}
