@@ -21,7 +21,7 @@ a:hover {
 
 .boss {
     height: 50px;
-    background-color: black
+    background-color: black;
 }
 
 .logo {
@@ -84,10 +84,18 @@ a:hover {
 }
 .one{
     padding-top: 20px;
+    transition: transform .2s;
     float: left
+}
+.one:hover{
+    transform: scale(1.05);
 }
 .two{
     padding-top: 20px;
+    transition: transform .2s;
+}
+.two:hover{
+    transform: scale(1.05);
 }
 .foot{
     background-image: url(../Images/mount.jpg);
@@ -97,4 +105,25 @@ a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;  
+}
+.end{
+    font-family: 'PT Sans Caption';
+    background-color: black;
+    padding-left: 350px;
+    padding-top: 35px;
+    letter-spacing: 10px;
+    color: white;
+    float: left;
+}
+.app{
+    font-family: 'PT Sans Caption';
+    background-color: black;
+    padding-left: 800px;
+    padding-top: 40px;
+    padding-bottom: 56px;
+    letter-spacing: 10px;
+    color: white;
+}
+.yup{
+    letter-spacing: 60px;
 }
