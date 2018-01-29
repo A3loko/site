@@ -1,0 +1,29 @@
+body{
+    background-color: f3f3f3;
+}
+.boss{
+    margin: auto;
+    width: 750px;
+    text-align: justify;
+    background-color: white;
+}
+h3{
+    letter-spacing: 7px;
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+}
+.client{
+    background-color: white;
+}
+.custom
+{
+    padding-left: 65px;
+    padding-top: 30px;
+    text-align: justify;
+    word-spacing: 250px;
+    line-height: 40px;
+}
