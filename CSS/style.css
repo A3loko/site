@@ -1,21 +1,56 @@
 body{
     background-color: f3f3f3;
 }
+a {
+    text-decoration: none;
+    color: floralwhite;
+}
+
+a:visited {
+    text-decoration: none;
+    color: floralwhite;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: floralwhite;
+}
+
+.boss {
+    height: 50px;
+    background-color: black;
+    width: 100%;
+}
+.logo {
+    padding-left: 7px;
+    float: left;
+    color: floralwhite;
+    font-size: 30px;
+    font-family: 'Oswald';
+
+}
+.contact {
+    font-family: 'Oswald';
+    padding-top: 14px;
+    color: floralwhite;
+    background-color: black;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 14px;
+}
 .pad{
-    padding: 100;
+    padding: 60px;
 }
 .style{
     width: 450px;
     margin: auto;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 70px;
     background-color: white;
 }
-a{
-    text-decoration: none;
+
+a:hover{
     color:cadetblue;
 }
-a:hover{
-    color: blueviolet;
-}
+
