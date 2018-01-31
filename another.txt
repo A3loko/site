@@ -1,0 +1,14 @@
+folder access rights
+rm -rf
+nodejs.org
+npm --version
+node --version
+npm install -g http-server
+http-server
+http methods
+git diff
+git diff HEAD working directory
+git diff index working directory
+git diff --cashed working directory
+git merge
+bootstrap 4
