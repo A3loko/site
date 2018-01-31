@@ -1,0 +1,39 @@
+#head{
+    font-family: 'Dhurjati', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: grey;
+}
+#kidding{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Supermercado One', cursive;
+    font-size: 20px;
+}
+#services{
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Dhurjati', sans-serif;
+    color: grey;
+    font-size: 40px;
+}
+#search{
+    padding-left: 130px;
+}
+#eng{
+    padding-left: 130px;
+    padding-right: 630px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    width: 200px;
+}
+#web{
+    padding-left: 130px;
+    padding-right: 630px;
+    text-align: center;
+    width: 200px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#pad{
+    padding-top: 60px;
+}
